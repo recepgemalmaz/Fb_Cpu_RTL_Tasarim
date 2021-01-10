@@ -1,1 +1,0 @@
-# fb_cpu_rtl_tasarim
